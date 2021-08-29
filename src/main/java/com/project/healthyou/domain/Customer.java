@@ -27,5 +27,7 @@ public class Customer {
 
     private LocalDate createdAt;
 
-    private 
+    private String phone;
+
+    private String
 }
